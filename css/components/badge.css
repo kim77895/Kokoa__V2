@@ -1,0 +1,37 @@
+.badge {
+  background-color: tomato;
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+}
+
+.user-component__column_notification {
+  margin: 10px 0px 0px 10px;
+}
+
+.SH {
+  position: relative;
+  width: 5px;
+  height: 5px;
+  right: -73px;
+  top: -25px;
+}
+
+.M-SH {
+  position: relative;
+  width: 5px;
+  height: 5px;
+  right: -123px;
+  top: -25px;
+}
+/* 
+.more {
+  position: relative;
+  right: 100px;
+  bottom: 10px;
+} */
